@@ -1,4 +1,5 @@
 # Flask-Tutorials
+# Flask for uploading Files Images, Archives, Data Files
 
 # flask_uploads: ImportError: cannot import name 'secure_filename'
 Solution: https://stackoverflow.com/a/62623435
