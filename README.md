@@ -7,4 +7,6 @@ https://pypi.org/project/Flask-Reuploaded/
 
 ## pip install Flask-Reuploaded
 
-check requirements.txt
+# requirements.txt
+
+pip install -r requirements.txt
